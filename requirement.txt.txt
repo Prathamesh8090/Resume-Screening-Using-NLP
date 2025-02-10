@@ -1,5 +1,5 @@
 numpy
-pypdf2
+PyPDF2
 nltk
 scikit-learn
 seaborn
